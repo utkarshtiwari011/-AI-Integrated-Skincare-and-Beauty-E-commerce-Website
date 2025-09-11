@@ -1,73 +1,68 @@
-# Welcome to My project
+# 🌟 GlowAI - AI-Powered Skincare Ecommerce Website
 
-## Project info
+<div align="center">
 
-**URL**: https://lovable.dev/projects/52d98a90-4103-4777-88da-e117e4cf86fa
+![GlowAI Logo](https://img.shields.io/badge/GlowAI-AI%20Skincare-blue?style=for-the-badge&logo=sparkles)
+![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=flat-square&logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-5.4.1-646CFF?style=flat-square&logo=vite)
+![Supabase](https://img.shields.io/badge/Supabase-2.50.3-3ECF8E?style=flat-square&logo=supabase)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.11-38B2AC?style=flat-square&logo=tailwind-css)
 
-## How can I edit this code?
+**Experience the future of skincare with AI-powered recommendations, premium formulations, and personalized beauty solutions.**
 
-There are several ways of editing your application.
+[🚀 Live Demo](https://glow-ai-boutique.lovable.app) 
 
-**Use Lovable**
+</div>
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/52d98a90-4103-4777-88da-e117e4cf86fa) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## ✨ Overview
 
-**Use your preferred IDE**
+GlowAI is a cutting-edge skincare e-commerce platform that leverages advanced artificial intelligence to revolutionize the beauty industry. Our platform combines sophisticated AI algorithms with premium skincare products to deliver personalized recommendations that actually work for your unique skin profile.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🎯 Key Highlights
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **🤖 Advanced AI Skin Analysis**: Multi-factor analysis considering skin type, concerns, age, climate, and lifestyle
+- **💎 Premium Product Catalog**: Curated selection of dermatologist-tested, clinical-grade formulations
+- **🎯 Personalized Recommendations**: Dynamic AI scoring system for optimal product matching
+- **💬 AI-Powered Chatbot**: Intelligent skincare assistant for real-time advice and guidance
+- **📱 Modern Responsive Design**: Seamless experience across all devices
+- **🔐 Secure Authentication**: Enterprise-grade security with Supabase Auth
+- **⚡ Real-Time Features**: Live updates and instant recommendations
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🚀 Features
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Core Functionality
 
-# Step 3: Install the necessary dependencies.
-npm i
+#### 🤖 AI-Powered Skin Analysis
+- **Multi-Factor Analysis**: Considers oiliness, sensitivity, hydration, age, and climate
+- **Dynamic Scoring**: Real-time compatibility calculations using advanced algorithms
+- **Confidence Metrics**: Transparency in AI decision-making with confidence scores
+- **Progressive Profiling**: Intelligent question flow for accurate skin assessment
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+#### 🛍️ Premium Product Catalog
+- **Curated Selection**: 100+ dermatologist-tested products
+- **Detailed Product Pages**: Interactive viewers with ingredient breakdowns
+- **AI Match Scores**: Personalized compatibility ratings for each product
+- **Usage Timelines**: Smart recommendations for product introduction and usage
 
-**Edit a file directly in GitHub**
+#### 💳 E-Commerce Features
+- **Smart Shopping Cart**: AI-suggested add-ons and bundle recommendations
+- **Wishlist Management**: Save favorites with personalized notes
+- **Secure Checkout**: Multiple payment options with fraud protection
+- **Order Tracking**: Real-time updates and delivery notifications
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+#### 💬 AI Chatbot Assistant
+- **Intelligent Conversations**: Context-aware skincare advice
+- **Product Recommendations**: Instant suggestions based on user profile
+- **Usage Guidance**: Step-by-step application instructions
+- **Progress Tracking**: Monitor improvements and adjust recommendations
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/52d98a90-4103-4777-88da-e117e4cf86fa) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+#### 👤 User Experience
+- **Personal Dashboard**: Track skin journey and product effectiveness
+- **Review System**: Community-driven product feedback
+- **Progress Photos**: Visual tracking of skin improvements
+- **Routine Builder**: AI-generated personalized skincare routines
