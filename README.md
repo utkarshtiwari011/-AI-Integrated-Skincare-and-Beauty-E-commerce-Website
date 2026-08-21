@@ -21,36 +21,6 @@ GlowAI combines intelligent skin analysis, personalized product recommendations,
 
 ---
 
-# 📸 Product Preview
-
-> Replace the placeholder images below with screenshots from the actual application.
-
-## 🏠 Homepage
-
-![GlowAI Homepage](docs/images/home.png)
-
-## 🤖 AI Skin Analysis
-
-![AI Skin Analysis](docs/images/skin-analysis.png)
-
-## 🛍️ Product Catalog
-
-![Product Catalog](docs/images/product-catalog.png)
-
-## 💬 AI Skincare Assistant
-
-![AI Chatbot](docs/images/ai-assistant.png)
-
-## 👤 Personal Dashboard
-
-![Personal Dashboard](docs/images/dashboard.png)
-
-## 🛒 Shopping Experience
-
-![Shopping Cart](docs/images/cart.png)
-
----
-
 # ✨ Overview
 
 GlowAI is a modern skincare e-commerce platform designed to personalize the shopping experience using AI-assisted skin analysis and recommendation algorithms.
